@@ -1,0 +1,26 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncBreeds.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sockbot/cats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sockbot/cats/issues"
+  },
+  "homepage": "https://github.com/sockbot/cats#readme"
+}
